@@ -1,0 +1,55 @@
+{
+  "name": "typescript-iterators",
+  "version": "1.0.0",
+  "description": "TypeScript Iterators",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-latest": "^6.24.0",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "webpack": "^2.3.1",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --watch --inline --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibro/typescript-iterators.git"
+  },
+  "keywords": [
+    "typescript",
+    "iterators",
+    "union",
+    "template strings",
+    "type guards",
+    "type aliases",
+    "spread",
+    "destructuring",
+    "decorators",
+    "intersection types",
+    "class expressions",
+    "generics",
+    "generators",
+    "async await",
+    "async",
+    "await",
+    "control flow",
+    "strict null checks",
+    "keyof",
+    "partial",
+    "record",
+    "readonly",
+    "pick"
+  ],
+  "author": "Ibro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibro/typescript-iterators/issues"
+  },
+  "homepage": "https://github.com/Ibro/typescript-iterators#readme"
+}
